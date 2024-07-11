@@ -354,6 +354,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmssbx10.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmss12.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmssbx10.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
@@ -366,8 +368,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.f
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands0.tfm
-INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmss12.tfm
-INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmssbx10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmsso10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmss10.tfm
 INPUT /usr/share/texmf/tex/latex/lm/ts1lmss.fd
