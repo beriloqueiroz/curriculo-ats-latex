@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1720709868.92613 "/home/berilo/dev/curriculo-ats-latex/Curriculo_pt_br.tex" "out/Curriculo_pt_br.pdf" "Curriculo_pt_br" 1720709870.45033 2
+["pdflatex"] 1720711326.04 "/home/berilo/dev/curriculo-ats-latex/Curriculo_pt_br.tex" "out/Curriculo_pt_br.pdf" "Curriculo_pt_br" 1720711327.35495 2
   "/etc/texmf/web2c/texmf.cnf" 1720022295.26953 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/berilo/dev/curriculo-ats-latex/Curriculo_pt_br.tex" 1720709868.64089 14382 e7ab8b2e1e2782830210db08c4454686 ""
+  "/home/berilo/dev/curriculo-ats-latex/Curriculo_pt_br.tex" 1720711325.75968 14816 b2c7348a8bbb1364d8133da8fc3298b4 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1622837620 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -206,9 +206,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1720117419.36024 5349216 bf3a80e68d946c7acd95ff030fd9bb63 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1720117112 6831147 5c104bd662e9375fa5f5e0e609b346ce ""
-  "Curriculo_pt_br.tex" 1720709868.64089 14382 e7ab8b2e1e2782830210db08c4454686 ""
-  "out/Curriculo_pt_br.aux" 1720709870.3069 878 55383b9d496975a034f636d55e1c28f3 "pdflatex"
-  "out/Curriculo_pt_br.out" 1720709870.3079 758 d80dba3c4a0f006b4bad43e71946338a "pdflatex"
+  "Curriculo_pt_br.tex" 1720711325.75968 14816 b2c7348a8bbb1364d8133da8fc3298b4 ""
+  "out/Curriculo_pt_br.aux" 1720711327.22365 878 55383b9d496975a034f636d55e1c28f3 "pdflatex"
+  "out/Curriculo_pt_br.out" 1720711327.22465 758 d80dba3c4a0f006b4bad43e71946338a "pdflatex"
   (generated)
   "out/Curriculo_pt_br.aux"
   "out/Curriculo_pt_br.log"

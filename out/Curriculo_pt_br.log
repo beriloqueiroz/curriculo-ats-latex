@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.7.4)  11 JUL 2024 11:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.7.4)  11 JUL 2024 12:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -910,13 +910,48 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--71
+Underfull \hbox (badness 10000) in paragraph at lines 63--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--79
 
  []
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 85.
-LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 85.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 93.
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 93.
 (/usr/share/texmf/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -925,7 +960,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 85.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 93.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}] [2] [3] [4] (out/Curriculo_pt_br.aux)
@@ -939,13 +974,13 @@ Package rerunfilecheck Info: File `Curriculo_pt_br.out' has not changed.
 Here is how much of TeX's memory you used:
  27579 strings out of 476106
  521608 string characters out of 5793934
- 1955975 words of memory out of 5000000
+ 1961975 words of memory out of 5000000
  49027 multiletter control sequences out of 15000+600000
  606300 words of font info for 104 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 129i,11n,129p,1049b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,12n,129p,1049b,528s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb>
-Output written on out/Curriculo_pt_br.pdf (4 pages, 160085 bytes).
+Output written on out/Curriculo_pt_br.pdf (4 pages, 161290 bytes).
 PDF statistics:
  135 PDF objects out of 1000 (max. 8388607)
  115 compressed objects within 2 object streams
