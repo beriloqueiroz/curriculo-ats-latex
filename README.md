@@ -17,3 +17,13 @@ use .vscode
 
 <https://nevalsar.hashnode.dev/compiling-latex-with-ubuntu-and-visual-studio-code>
 # curriculo-ats-latex
+
+## Arch linux:
+```bash
+sudo pacman -Syu
+sudo pacman -S texlive-basic texlive-latex texlive-latexrecommended texlive-latexextra texlive-fontsrecommended texlive-fontsextra
+
+cd docs/curriculo-ats-latex
+pdflatex Curriculo_pt_br.tex
+pdflatex Curriculo_en-us.tex
+```
